@@ -15,6 +15,6 @@ I mostly try to annoy cybercrime gangs, the kind who operate across continents a
 I only started learning the red-team stuff recently, but my god it's fun, especially when you leave metasploit behind and head into the great unknown and still get a shell.  For the last 20 years, I was mostly interested in OpenBSD, firewalls, that kind of basic blue-team stuff, which is also fun.
 
 ### Other Stuff
-If you got this far, well done I guess!  Is there any more to read?  I'm not interested in money, power, or glory.  I'm driven to seek knowledge and help people.  Best practice, basically.  Ironically, when you do that, I've noticed that you are accused of trying to steal money, power, or glory, which is odd when you think about it.  I once quoted Lord Voldemort as a joke with such people, just to see what would happen.  (Don't try that at home).
+If you got this far, well done I guess!  Is there any more to read?  I'm not interested in money, power, or glory.  I'm driven to seek knowledge and help people.  Best practice, basically.  Ironically, when you do that, I've noticed that you are accused of lying, and trying to steal money, power, or glory, which is odd when you think about it.  With such people, I once quoted Lord Voldemort as a joke and experiment, just to see what would happen.  (Don't try that at home).
 
-I code.  I paint.  I grow veg.  I swim.  I write music, play guitar, drums, bass.  I go for long walks.  I play golf.  I'm most definitely not Lord Voldemort.
+I code.  I paint.  I grow herbs and veg.  I swim.  I write music, play guitar, drums, bass.  I go for long walks.  I play golf.  I paint warhammer models and play **way** too much world of warcraft.  I'm most definitely not Lord Voldemort.
